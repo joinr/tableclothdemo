@@ -1,0 +1,5 @@
+First	Last	Age	Location	Category
+Bilbo	Baggins	400	The Shire	LOTR
+S'chn T'gai	Spock	120	Vulcan	Trek
+James	Kirk	49	Enterprise	Trek
+Gordon	Shumway	285	Earth	ALF
